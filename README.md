@@ -1,4 +1,4 @@
-# Terraform-devops-ci-cd with Docker, SonarQube, ECR, LoadBalancer, Grafana.
+# Terraform-devops-ci-cd with Docker, Ansible, SonarQube, ECR, LoadBalancer, Grafana.
 
 Create resources with terraform:
 ``` 
